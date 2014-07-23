@@ -25,9 +25,9 @@ my %WriteMakefileArgs = (
   "LICENSE" => "perl",
   "NAME" => "Pegex::vCard",
   "PREREQ_PM" => {
-    "Pegex" => "0.40"
+    "Pegex" => "0.43"
   },
-  "VERSION" => "0.01",
+  "VERSION" => "0.02",
   "test" => {
     "TESTS" => "t/*.t"
   }
@@ -35,7 +35,7 @@ my %WriteMakefileArgs = (
 
 
 my %FallbackPrereqs = (
-  "Pegex" => "0.40"
+  "Pegex" => "0.43"
 );
 
 
