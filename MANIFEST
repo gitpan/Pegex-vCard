@@ -12,7 +12,6 @@ lib/Pegex/vCard.pod
 lib/Pegex/vCard/Data.pm
 lib/Pegex/vCard/Grammar.pm
 share/vcard.pgx
-t/000-compile-modules.t
 t/card1.vcard
 t/release-pod-syntax.t
 t/test1.t
